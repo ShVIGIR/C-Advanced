@@ -1,0 +1,28 @@
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.AssemblyInfoInputs.cache
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.AssemblyInfo.cs
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.exe
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.deps.json
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.runtimeconfig.json
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.dll
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.pdb
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.dll
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\refint\Class02.Task1.dll
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.pdb
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.genruntimeconfig.cache
+C:\Users\Радица\Desktop\c# advanced homeworks\Class02\Class02.Task1\obj\Debug\net6.0\ref\Class02.Task1.dll
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.exe
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.deps.json
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.runtimeconfig.json
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.dll
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\bin\Debug\net6.0\Class02.Task1.pdb
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.AssemblyInfoInputs.cache
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.AssemblyInfo.cs
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.dll
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\refint\Class02.Task1.dll
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.pdb
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\Class02.Task1.genruntimeconfig.cache
+C:\Users\Радица\Desktop\C-Advanced\Class02\Class02.Task1\obj\Debug\net6.0\ref\Class02.Task1.dll
